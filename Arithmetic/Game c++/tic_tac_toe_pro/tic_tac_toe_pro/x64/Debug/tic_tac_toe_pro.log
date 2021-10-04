@@ -1,0 +1,60 @@
+﻿  tic_tac_toe_pro.cpp
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(151): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(151): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(151): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(151): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(210): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(210): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(210): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(210): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(371): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(371): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(371): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(371): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(395): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(395): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(395): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(395): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(556): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(556): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(556): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(556): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(689): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(689): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(689): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(689): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(728): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(728): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(728): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(728): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(746): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(746): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(746): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(746): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(874): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(874): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(874): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(874): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2428): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2428): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2428): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2428): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2496): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2496): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2496): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2496): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2577): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2577): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2577): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2577): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2674): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2674): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2674): note: the missing variadic argument 2 is required by format string '%c'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2674): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2721): warning C4473: '_cscanf_s' : not enough arguments passed for format string
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2721): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2721): note: the missing variadic argument 2 is required by format string '%s'
+  d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(2721): note: this argument is used as a buffer size
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(675): warning C4102: 'tour': unreferenced label
+d:\companies\mycplus\code\tic_tac_toe_pro\tic_tac_toe_pro\tic_tac_toe_pro.cpp(1091): warning C4102: 'down25': unreferenced label
+  tic_tac_toe_pro.vcxproj -> D:\Companies\mycplus\code\tic_tac_toe_pro\x64\Debug\tic_tac_toe_pro.exe
